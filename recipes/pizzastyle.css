@@ -33,23 +33,11 @@ img:hover {
     border-color: rgb(196, 26, 26);
 }
 
-.Ingredients {
+.Ingredients, .Steps{
     text-align: center;
 }
 
-.ingredientsList {
-    display: inline-block;
-    text-align: left;
-    font-size: 20px;
-    border: solid;
-    border-color: rgb(196, 26, 26);
-}
-
-.Steps {
-    text-align: center;
-}
-
-.stepsList {
+.ingredientsList, .stepsList  {
     display: inline-block;
     text-align: left;
     font-size: 20px;

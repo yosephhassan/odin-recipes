@@ -32,3 +32,15 @@ img:hover {
     border: solid;
     border-color: rgb(196, 26, 26);
 }
+
+.Ingredients {
+    text-align: center;
+}
+
+.ingredientsList {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    border: solid;
+    border-color: rgb(196, 26, 26);
+}

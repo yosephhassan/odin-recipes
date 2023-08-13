@@ -23,3 +23,12 @@ img:hover {
     width: 500px;
     height: auto;
 }
+
+.para {
+    display: inline-block;
+    margin-left: 20%;
+    margin-right: auto;
+    font-size: 20px;
+    border: solid;
+    border-color: rgb(196, 26, 26);
+}

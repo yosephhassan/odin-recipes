@@ -44,3 +44,12 @@ img:hover {
     border: solid;
     border-color: rgb(196, 26, 26);
 }
+
+.Bpara {
+    display: inline-block;
+    margin-left: 17%;
+    margin-right: auto;
+    font-size: 20px;
+    border: solid;
+    border-color: rgb(196, 26, 26);
+}

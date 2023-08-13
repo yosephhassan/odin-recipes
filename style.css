@@ -7,3 +7,28 @@ body {
     font-size: 70px;
     color: rgb(196, 26, 26);
 }
+
+.recipesList {
+    list-style: none;
+    padding: 0;
+    display: inline;
+}
+
+li {
+    float: left;
+    display: block;
+    padding-left: 16%;
+    padding-top: 5%;
+    font-size: 40px;
+
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    
+}
+
+li a:hover {
+    color: rgb(196, 26, 26);
+}

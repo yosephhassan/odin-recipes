@@ -1,5 +1,5 @@
 # odin-recipes
-In this project I will create a basic recipes website using HTML.
+In this project I created a basic recipes website using HTML.
 
 I will learn how to use HTML elemnts such as "a" to  add links "img" to add images and other elements like "h1" "h2" for headings and "p" for paragraphs.
 

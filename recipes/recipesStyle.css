@@ -53,3 +53,12 @@ img:hover {
     border: solid;
     border-color: rgb(196, 26, 26);
 }
+
+.HDpara {
+    display: inline-block;
+    margin-left: 24%;
+    margin-right: auto;
+    font-size: 20px;
+    border: solid;
+    border-color: rgb(196, 26, 26);
+}
